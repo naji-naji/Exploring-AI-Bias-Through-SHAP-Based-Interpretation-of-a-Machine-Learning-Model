@@ -6,11 +6,10 @@ This project investigates potential bias in AI-driven hiring recommendations by 
 - Primary language: Jupyter Notebook
 - Notebook-first workflow
 
-## Demo artifact
+## Access The Analysis
 - Main notebook: [case_study_notebook.ipynb](https://github.com/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/case_study_notebook.ipynb)
 
-## Data
-
+## About The Data
 Two CSV files contain synthetically generated candidate profiles and labels:
 
 - [Test Data - ChatGPT.csv](https://github.com/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/Test%20Data%20-%20ChatGPT.csv)
@@ -32,7 +31,6 @@ Notes
 - Sensitive/protected attributes (e.g., Gender, Age, Country) are present to enable bias analysis—handle with care in real-world settings.
 
 ## Goals
-
 1. Train an XGBoost classifier to predict “Hire For Senior Role” from candidate attributes.
 2. Use SHAP and importance metrics to:
    - Quantify global feature importance.
