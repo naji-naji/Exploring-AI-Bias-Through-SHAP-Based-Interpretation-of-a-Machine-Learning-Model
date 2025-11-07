@@ -1,0 +1,1001 @@
+Age,Gender,Country,Number of projects completed,Years of experience,Industry,Education level,Certifications count,Hire For Senior Role
+62,Female,Germany,4,6,Education,Primary school,1,No
+20,Male,New Zealand,4,2,Telecommunications,High school diploma,4,No
+37,Male,France,4,10,Transportation,Bachelor degree,5,Yes
+51,Male,Germany,2,10,Agriculture,No formal education,1,No
+44,Male,India,4,7,Technology,Some college,1,No
+49,Female,Kenya,4,7,Finance,High school diploma,2,No
+62,Female,India,4,6,Retail,Primary school,2,No
+62,Male,New Zealand,2,5,Transportation,High school diploma,1,No
+58,Male,Argentina,3,5,Telecommunications,Some college,3,No
+63,Male,Canada,5,8,Finance,Primary school,2,No
+63,Male,Australia,5,8,Retail,Bachelor degree,1,Yes
+62,Female,Germany,4,9,Finance,High school diploma,3,Yes
+36,Female,New Zealand,2,8,Energy,Primary school,5,No
+40,Female,New Zealand,0,8,Entertainment,Primary school,4,No
+59,Female,New Zealand,0,9,Retail,Some college,1,No
+46,Male,Germany,4,9,Education,Graduate degree,3,Yes
+55,Female,Japan,4,5,Transportation,High school diploma,2,No
+48,Female,Japan,2,10,Entertainment,Primary school,5,No
+39,Male,Argentina,4,9,Agriculture,Some college,1,Yes
+21,Female,Kenya,5,5,Telecommunications,Bachelor degree,4,No
+40,Female,Nigeria,4,5,Finance,High school diploma,5,No
+44,Male,Australia,5,6,Energy,Graduate degree,3,Yes
+63,Female,Australia,4,7,Entertainment,No formal education,1,No
+48,Male,India,2,8,Telecommunications,Primary school,4,No
+24,Male,India,3,4,Retail,Some college,3,No
+60,Female,Germany,1,5,Technology,No formal education,4,No
+50,Female,Kenya,2,7,Entertainment,Bachelor degree,1,No
+59,Male,Mexico,2,6,Finance,Some college,1,No
+35,Female,Argentina,0,5,Education,Bachelor degree,4,No
+21,Male,Germany,3,1,Agriculture,Primary school,4,No
+51,Female,Brazil,0,9,Real Estate,High school diploma,0,No
+33,Male,Kenya,4,9,Real Estate,Graduate degree,2,Yes
+33,Male,Australia,3,5,Healthcare,No formal education,5,No
+22,Female,Canada,3,3,Manufacturing,Graduate degree,3,No
+28,Female,India,5,5,Real Estate,Bachelor degree,2,No
+39,Female,Nigeria,0,8,Transportation,No formal education,1,No
+31,Male,Brazil,0,9,Transportation,Primary school,2,No
+20,Female,Australia,1,2,Healthcare,Graduate degree,2,No
+28,Male,New Zealand,0,6,Manufacturing,Primary school,1,No
+59,Male,New Zealand,0,7,Energy,High school diploma,4,No
+28,Male,Nigeria,5,6,Energy,No formal education,1,No
+35,Male,Nigeria,0,10,Telecommunications,Graduate degree,2,No
+22,Male,Nigeria,5,5,Finance,Some college,4,No
+33,Female,Germany,4,7,Retail,High school diploma,0,No
+44,Male,Kenya,3,8,Agriculture,High school diploma,0,No
+41,Female,Canada,4,7,Education,Bachelor degree,2,No
+61,Male,Argentina,3,7,Real Estate,Graduate degree,4,Yes
+46,Female,India,4,10,Energy,No formal education,2,No
+28,Male,Nigeria,1,9,Technology,No formal education,3,No
+55,Male,Mexico,3,10,Education,High school diploma,3,Yes
+65,Male,France,1,9,Telecommunications,Primary school,5,No
+63,Male,Brazil,2,9,Finance,Graduate degree,3,Yes
+53,Female,Brazil,2,8,Retail,Graduate degree,1,No
+57,Female,New Zealand,5,5,Entertainment,Primary school,0,No
+47,Male,Nigeria,4,7,Real Estate,No formal education,2,No
+42,Male,Japan,5,5,Transportation,Graduate degree,4,Yes
+31,Female,Brazil,1,5,Finance,Graduate degree,0,No
+51,Male,New Zealand,1,8,Retail,No formal education,4,No
+41,Male,Kenya,0,5,Energy,Some college,1,No
+32,Female,Mexico,0,7,Healthcare,Primary school,5,No
+44,Male,Australia,5,9,Healthcare,Bachelor degree,4,Yes
+50,Male,Argentina,2,7,Retail,Graduate degree,5,Yes
+40,Female,France,2,5,Technology,Some college,4,No
+53,Female,France,1,10,Energy,High school diploma,5,No
+30,Male,Argentina,4,7,Finance,Bachelor degree,4,No
+24,Male,France,1,3,Transportation,Primary school,4,No
+57,Male,India,4,8,Telecommunications,Bachelor degree,1,No
+29,Female,Germany,5,10,Manufacturing,Some college,2,Yes
+26,Male,France,4,7,Telecommunications,No formal education,2,No
+50,Male,Brazil,3,6,Entertainment,Some college,3,No
+55,Female,Japan,1,7,Real Estate,Some college,2,No
+55,Male,Germany,1,8,Manufacturing,No formal education,2,No
+21,Female,Australia,5,3,Finance,Some college,0,No
+59,Female,New Zealand,4,10,Entertainment,Some college,5,Yes
+49,Male,Mexico,2,8,Agriculture,Graduate degree,3,Yes
+40,Male,Brazil,3,10,Education,Primary school,4,No
+23,Female,Nigeria,1,4,Telecommunications,Bachelor degree,5,No
+37,Female,New Zealand,5,10,Education,Some college,5,Yes
+53,Male,Kenya,4,5,Agriculture,Primary school,1,No
+50,Male,France,4,7,Technology,Some college,3,No
+62,Male,Nigeria,5,6,Transportation,No formal education,5,No
+34,Male,New Zealand,2,7,Healthcare,Primary school,4,No
+46,Female,New Zealand,2,10,Finance,High school diploma,2,Yes
+34,Male,Kenya,4,5,Energy,Some college,0,No
+25,Male,Kenya,5,9,Education,Graduate degree,0,Yes
+57,Female,Kenya,2,6,Energy,Graduate degree,2,No
+45,Male,Canada,4,10,Real Estate,Bachelor degree,1,Yes
+31,Male,Brazil,0,7,Healthcare,Some college,1,No
+50,Female,India,0,7,Technology,Primary school,2,No
+29,Female,France,4,6,Real Estate,Graduate degree,2,No
+23,Male,Argentina,2,5,Finance,Primary school,1,No
+58,Female,New Zealand,0,10,Entertainment,Bachelor degree,4,No
+24,Male,Mexico,5,1,Real Estate,No formal education,5,No
+59,Male,Japan,0,7,Agriculture,No formal education,5,No
+27,Male,Germany,5,10,Retail,Primary school,4,No
+60,Female,Mexico,4,5,Education,High school diploma,1,No
+35,Male,Kenya,3,10,Retail,Bachelor degree,1,Yes
+24,Female,India,0,3,Finance,Graduate degree,2,No
+57,Female,Australia,4,5,Entertainment,Bachelor degree,2,No
+62,Male,France,2,8,Telecommunications,High school diploma,2,No
+58,Female,Mexico,5,5,Manufacturing,Primary school,3,Yes
+41,Male,New Zealand,1,6,Energy,Primary school,0,No
+64,Male,Australia,4,9,Telecommunications,Graduate degree,3,Yes
+34,Male,Germany,3,6,Energy,Bachelor degree,3,No
+34,Male,New Zealand,4,8,Manufacturing,Bachelor degree,1,Yes
+23,Female,Brazil,1,9,Retail,No formal education,2,No
+63,Female,Australia,5,9,Education,Graduate degree,3,Yes
+42,Female,New Zealand,0,7,Education,Graduate degree,3,No
+34,Female,Germany,5,8,Education,No formal education,4,Yes
+25,Male,Nigeria,2,9,Finance,High school diploma,5,Yes
+40,Female,Germany,2,9,Technology,High school diploma,3,Yes
+44,Female,Australia,0,8,Telecommunications,Graduate degree,4,No
+63,Female,Argentina,2,6,Real Estate,Primary school,2,No
+49,Female,New Zealand,0,5,Healthcare,Graduate degree,4,No
+62,Female,Brazil,4,10,Telecommunications,Primary school,1,Yes
+58,Male,Mexico,3,6,Telecommunications,Graduate degree,5,Yes
+47,Male,India,0,8,Telecommunications,High school diploma,1,No
+41,Male,France,4,10,Healthcare,Graduate degree,3,Yes
+47,Male,New Zealand,3,1,Technology,Bachelor degree,4,No
+30,Female,Germany,5,6,Healthcare,Primary school,0,No
+48,Female,New Zealand,1,8,Finance,High school diploma,4,Yes
+61,Male,India,3,8,Manufacturing,Primary school,3,Yes
+39,Female,Nigeria,5,8,Finance,Bachelor degree,5,Yes
+42,Male,New Zealand,4,2,Energy,Bachelor degree,1,No
+51,Female,Brazil,1,7,Technology,Primary school,4,No
+24,Male,Brazil,4,8,Energy,Bachelor degree,1,No
+22,Male,Mexico,1,8,Telecommunications,Primary school,2,No
+60,Female,Mexico,4,10,Technology,Primary school,2,Yes
+21,Female,Japan,5,4,Agriculture,High school diploma,4,No
+65,Male,Brazil,5,6,Entertainment,Some college,3,Yes
+38,Male,Argentina,2,10,Energy,High school diploma,2,Yes
+43,Female,Nigeria,5,7,Energy,High school diploma,1,Yes
+27,Male,France,4,4,Energy,High school diploma,3,No
+48,Male,Germany,1,6,Healthcare,Primary school,4,No
+37,Female,Japan,4,9,Energy,High school diploma,5,Yes
+37,Female,Brazil,2,10,Entertainment,Bachelor degree,4,Yes
+44,Female,France,3,3,Transportation,Graduate degree,4,No
+49,Male,Japan,1,8,Real Estate,No formal education,2,No
+54,Male,New Zealand,1,5,Healthcare,Primary school,0,No
+64,Female,Kenya,2,8,Entertainment,High school diploma,3,Yes
+31,Male,Germany,4,6,Manufacturing,Bachelor degree,5,Yes
+45,Male,Nigeria,3,5,Telecommunications,Graduate degree,0,No
+38,Male,Australia,1,5,Real Estate,Some college,0,No
+30,Female,Mexico,1,10,Transportation,Graduate degree,4,Yes
+55,Female,Canada,4,9,Technology,Bachelor degree,4,Yes
+60,Female,Japan,1,8,Education,Primary school,1,No
+40,Male,Nigeria,0,10,Technology,Primary school,4,No
+32,Female,Mexico,0,8,Manufacturing,Some college,3,No
+34,Female,Kenya,5,8,Entertainment,Bachelor degree,1,Yes
+31,Female,New Zealand,5,5,Energy,Graduate degree,0,No
+53,Female,Kenya,4,8,Healthcare,Primary school,1,Yes
+56,Male,Mexico,5,7,Education,High school diploma,2,Yes
+38,Male,France,0,10,Transportation,Primary school,1,No
+26,Female,Brazil,5,9,Entertainment,High school diploma,2,Yes
+37,Female,Brazil,4,8,Transportation,Bachelor degree,3,Yes
+64,Female,Australia,1,9,Manufacturing,Graduate degree,5,Yes
+37,Male,Canada,4,9,Education,High school diploma,0,Yes
+65,Female,France,3,6,Real Estate,No formal education,0,No
+27,Male,Kenya,1,7,Energy,High school diploma,0,No
+27,Female,Argentina,0,5,Transportation,Primary school,0,No
+33,Male,Germany,5,10,Entertainment,Some college,5,Yes
+32,Male,Mexico,5,8,Retail,No formal education,2,Yes
+36,Female,Argentina,4,7,Healthcare,Primary school,2,No
+62,Male,Kenya,2,5,Technology,Some college,1,No
+44,Female,Germany,3,2,Transportation,High school diploma,5,No
+47,Female,New Zealand,5,10,Education,No formal education,0,Yes
+48,Female,Argentina,1,9,Finance,Some college,0,No
+50,Female,Japan,0,9,Energy,Bachelor degree,0,No
+30,Female,Germany,0,8,Healthcare,Graduate degree,2,No
+51,Male,Nigeria,3,7,Telecommunications,Some college,4,Yes
+56,Female,Brazil,5,7,Retail,Graduate degree,5,Yes
+55,Female,Argentina,3,1,Technology,No formal education,4,No
+52,Female,Canada,0,7,Retail,Primary school,0,No
+63,Male,Argentina,0,5,Telecommunications,Primary school,0,No
+41,Female,India,1,5,Entertainment,Some college,4,No
+55,Male,Kenya,1,2,Entertainment,Graduate degree,4,No
+60,Female,Australia,5,5,Entertainment,Graduate degree,1,Yes
+44,Female,New Zealand,3,6,Education,High school diploma,5,No
+58,Female,Nigeria,0,8,Healthcare,Bachelor degree,0,No
+63,Male,France,5,10,Healthcare,Bachelor degree,4,Yes
+34,Male,Australia,0,10,Agriculture,Primary school,1,No
+45,Female,Canada,0,5,Retail,High school diploma,1,No
+50,Female,Mexico,5,5,Manufacturing,Graduate degree,2,Yes
+34,Female,Australia,0,6,Manufacturing,Primary school,1,No
+46,Female,India,1,8,Real Estate,Graduate degree,0,No
+43,Female,India,5,5,Technology,Bachelor degree,2,Yes
+52,Male,Japan,3,9,Finance,No formal education,1,Yes
+52,Female,Germany,2,9,Transportation,Some college,5,Yes
+26,Male,France,0,9,Education,Some college,5,No
+55,Female,Brazil,4,1,Finance,Primary school,1,No
+24,Female,Canada,2,5,Healthcare,No formal education,1,No
+26,Female,Brazil,4,2,Retail,High school diploma,5,No
+31,Male,Brazil,5,6,Healthcare,Primary school,1,No
+21,Male,Australia,0,9,Entertainment,Some college,1,No
+23,Male,Australia,5,8,Entertainment,Bachelor degree,1,Yes
+22,Male,Argentina,4,8,Telecommunications,High school diploma,2,No
+62,Female,Japan,3,5,Healthcare,Some college,2,No
+42,Male,Brazil,2,8,Telecommunications,Graduate degree,2,Yes
+54,Male,Brazil,1,6,Entertainment,Graduate degree,2,No
+63,Male,Argentina,4,5,Real Estate,No formal education,4,No
+62,Female,India,0,9,Finance,Bachelor degree,3,No
+53,Female,Brazil,5,6,Telecommunications,Bachelor degree,4,Yes
+56,Male,Brazil,5,9,Agriculture,Primary school,4,Yes
+41,Female,Brazil,1,9,Finance,Bachelor degree,1,No
+43,Male,India,1,2,Manufacturing,Graduate degree,0,No
+62,Female,India,4,7,Finance,High school diploma,4,Yes
+44,Female,Mexico,2,8,Telecommunications,Primary school,1,No
+63,Female,Argentina,4,10,Agriculture,Some college,1,Yes
+39,Female,New Zealand,1,7,Entertainment,Some college,5,No
+34,Male,Brazil,4,5,Entertainment,Graduate degree,3,No
+20,Male,Nigeria,1,6,Finance,Primary school,5,No
+51,Male,New Zealand,5,5,Real Estate,Primary school,2,Yes
+32,Female,Mexico,2,6,Technology,Graduate degree,3,No
+43,Male,Germany,4,9,Entertainment,High school diploma,5,Yes
+30,Female,Mexico,5,9,Finance,Some college,0,Yes
+51,Male,France,3,5,Finance,Primary school,2,No
+50,Female,France,0,9,Telecommunications,Some college,0,No
+50,Female,Kenya,2,6,Real Estate,Some college,0,No
+62,Male,Japan,5,7,Transportation,No formal education,5,Yes
+57,Male,Brazil,3,7,Energy,Primary school,0,No
+43,Female,Nigeria,1,5,Telecommunications,High school diploma,5,No
+62,Male,Canada,0,7,Healthcare,Graduate degree,0,No
+35,Male,Brazil,2,7,Manufacturing,Graduate degree,3,No
+28,Male,Germany,1,8,Finance,Bachelor degree,4,No
+34,Female,Kenya,3,5,Manufacturing,Graduate degree,1,No
+55,Male,Argentina,1,2,Telecommunications,Primary school,1,No
+30,Female,Argentina,0,9,Technology,Some college,1,No
+46,Male,New Zealand,2,2,Telecommunications,Bachelor degree,3,No
+58,Female,Nigeria,2,10,Energy,High school diploma,3,Yes
+26,Male,New Zealand,1,9,Manufacturing,No formal education,5,No
+20,Male,France,3,10,Finance,Bachelor degree,0,No
+60,Male,Australia,4,10,Healthcare,Primary school,4,Yes
+55,Male,Japan,2,9,Education,Some college,4,Yes
+56,Female,Brazil,5,5,Finance,Primary school,2,Yes
+46,Male,India,1,8,Retail,No formal education,4,No
+24,Male,Mexico,4,6,Healthcare,No formal education,2,No
+33,Female,Nigeria,2,10,Healthcare,Graduate degree,0,No
+34,Male,Germany,2,6,Transportation,Graduate degree,0,No
+52,Male,Argentina,5,5,Finance,Graduate degree,2,Yes
+39,Male,France,0,5,Healthcare,Graduate degree,2,No
+42,Male,Germany,5,10,Energy,Graduate degree,5,Yes
+29,Female,India,1,8,Energy,No formal education,3,No
+61,Female,New Zealand,4,5,Telecommunications,High school diploma,2,No
+34,Female,New Zealand,4,5,Healthcare,Primary school,1,No
+54,Female,Germany,0,9,Education,Graduate degree,3,No
+31,Male,Japan,3,5,Transportation,Graduate degree,5,No
+38,Male,Nigeria,2,9,Energy,Primary school,0,No
+62,Female,Germany,5,10,Manufacturing,Bachelor degree,2,Yes
+51,Male,France,4,6,Energy,No formal education,1,No
+29,Female,Germany,3,10,Energy,Some college,4,Yes
+49,Female,Australia,2,10,Manufacturing,Some college,1,No
+47,Female,India,0,9,Real Estate,Some college,5,No
+30,Male,Brazil,2,10,Education,No formal education,1,No
+24,Male,Japan,1,6,Retail,High school diploma,1,No
+35,Female,Kenya,0,7,Technology,Bachelor degree,5,No
+43,Female,Australia,0,7,Energy,High school diploma,5,No
+59,Male,New Zealand,1,9,Technology,Bachelor degree,1,No
+46,Female,Brazil,1,5,Technology,Graduate degree,0,No
+46,Female,India,4,9,Education,Some college,1,Yes
+48,Female,Brazil,5,9,Manufacturing,No formal education,0,Yes
+42,Male,Australia,4,7,Retail,Graduate degree,2,No
+50,Female,Japan,4,8,Manufacturing,Some college,0,No
+50,Female,Japan,1,5,Manufacturing,Graduate degree,2,No
+21,Female,India,5,5,Finance,Bachelor degree,3,No
+48,Female,Mexico,0,10,Technology,Bachelor degree,1,No
+44,Male,Argentina,0,6,Agriculture,Primary school,1,No
+46,Male,Germany,5,6,Energy,Graduate degree,3,Yes
+46,Female,Argentina,0,8,Telecommunications,Graduate degree,1,No
+57,Male,Germany,2,10,Agriculture,Some college,2,Yes
+35,Female,India,0,7,Manufacturing,High school diploma,2,No
+29,Male,Mexico,3,9,Technology,Graduate degree,4,Yes
+41,Female,France,0,8,Agriculture,Graduate degree,1,No
+28,Male,Australia,0,9,Healthcare,Primary school,2,No
+48,Female,Nigeria,0,8,Finance,Graduate degree,5,No
+25,Female,India,0,6,Entertainment,Some college,3,No
+31,Male,France,5,6,Retail,Graduate degree,4,Yes
+60,Female,Kenya,0,6,Real Estate,Graduate degree,3,No
+37,Male,Australia,0,8,Agriculture,Primary school,3,No
+34,Male,Brazil,1,10,Entertainment,Some college,5,No
+33,Male,Argentina,5,8,Telecommunications,No formal education,5,Yes
+25,Female,Kenya,2,10,Education,No formal education,5,No
+40,Female,Germany,0,9,Finance,No formal education,2,No
+54,Male,Argentina,2,7,Technology,Bachelor degree,0,No
+45,Female,France,0,7,Entertainment,Some college,0,No
+40,Female,Mexico,2,5,Education,Bachelor degree,3,No
+59,Male,Nigeria,4,8,Entertainment,Primary school,4,Yes
+64,Female,Mexico,2,10,Manufacturing,No formal education,2,No
+56,Male,Brazil,5,6,Agriculture,High school diploma,3,Yes
+43,Female,Australia,4,10,Healthcare,Graduate degree,2,Yes
+61,Female,France,1,1,Healthcare,Graduate degree,5,No
+20,Male,Argentina,2,10,Technology,High school diploma,1,No
+34,Female,Canada,4,9,Energy,Primary school,2,No
+54,Male,Japan,4,4,Real Estate,Bachelor degree,5,No
+53,Male,New Zealand,0,4,Finance,High school diploma,0,No
+33,Female,New Zealand,1,3,Agriculture,Bachelor degree,0,No
+33,Female,New Zealand,0,5,Agriculture,No formal education,5,No
+42,Male,Brazil,2,6,Healthcare,High school diploma,0,No
+35,Female,Japan,0,10,Energy,Graduate degree,5,No
+48,Male,Australia,2,5,Transportation,Some college,2,No
+50,Male,Japan,0,10,Education,Some college,1,No
+30,Female,Brazil,5,10,Manufacturing,No formal education,4,Yes
+53,Female,India,1,7,Technology,Primary school,2,No
+56,Male,France,0,5,Telecommunications,No formal education,2,No
+41,Female,Mexico,4,9,Real Estate,High school diploma,1,Yes
+55,Female,France,0,7,Energy,Some college,0,No
+42,Male,Germany,4,9,Transportation,Some college,5,Yes
+24,Male,New Zealand,1,7,Entertainment,Some college,5,No
+36,Female,Canada,5,10,Real Estate,Graduate degree,1,Yes
+59,Male,Germany,1,10,Agriculture,Primary school,2,Yes
+28,Female,Kenya,1,3,Agriculture,Primary school,3,No
+56,Male,Argentina,4,9,Retail,Graduate degree,2,Yes
+46,Male,Australia,0,10,Technology,Primary school,4,No
+53,Male,Canada,0,8,Entertainment,Some college,3,No
+36,Male,France,0,7,Agriculture,High school diploma,5,No
+46,Female,Brazil,1,6,Healthcare,Graduate degree,5,Yes
+52,Male,Argentina,2,7,Retail,Bachelor degree,0,No
+27,Female,Kenya,3,10,Real Estate,No formal education,1,Yes
+58,Male,Nigeria,4,5,Energy,Some college,3,No
+40,Male,Canada,4,10,Agriculture,Some college,3,Yes
+23,Male,Argentina,1,9,Retail,No formal education,5,No
+22,Male,Canada,0,6,Transportation,Primary school,2,No
+32,Male,Nigeria,3,5,Healthcare,Some college,3,No
+60,Male,New Zealand,1,6,Telecommunications,High school diploma,3,No
+62,Male,Mexico,3,6,Education,Some college,1,No
+51,Female,Japan,2,7,Finance,Some college,4,No
+20,Male,Germany,5,7,Education,Graduate degree,4,Yes
+46,Male,India,2,7,Transportation,Primary school,4,No
+55,Female,Nigeria,5,10,Education,Some college,3,Yes
+30,Male,India,5,10,Real Estate,Bachelor degree,3,Yes
+61,Male,New Zealand,4,3,Entertainment,Some college,3,No
+35,Male,India,4,7,Transportation,Primary school,2,No
+28,Male,Brazil,4,5,Technology,Some college,3,No
+46,Female,Australia,2,10,Manufacturing,Primary school,5,Yes
+35,Female,France,1,8,Agriculture,Bachelor degree,0,No
+62,Male,Nigeria,3,2,Technology,Some college,1,No
+62,Female,Nigeria,1,8,Energy,Bachelor degree,2,No
+20,Male,Kenya,4,8,Entertainment,No formal education,1,No
+59,Male,Mexico,2,8,Agriculture,Primary school,4,No
+30,Female,India,0,8,Agriculture,Bachelor degree,1,No
+59,Male,New Zealand,0,6,Entertainment,No formal education,4,No
+42,Male,Australia,1,10,Energy,No formal education,5,No
+39,Female,Brazil,0,6,Retail,Bachelor degree,4,No
+21,Male,Kenya,4,5,Telecommunications,Primary school,4,No
+46,Male,Germany,0,6,Finance,No formal education,2,No
+20,Male,Kenya,4,10,Finance,No formal education,2,Yes
+26,Male,India,3,7,Healthcare,Bachelor degree,4,No
+39,Male,Australia,4,5,Telecommunications,Primary school,1,No
+30,Male,India,3,9,Finance,Primary school,5,No
+62,Female,Argentina,1,7,Retail,Primary school,4,No
+25,Female,Mexico,5,8,Technology,Primary school,2,Yes
+25,Male,New Zealand,4,10,Education,Graduate degree,3,Yes
+29,Male,Brazil,5,5,Technology,Graduate degree,1,Yes
+60,Female,Australia,4,4,Manufacturing,High school diploma,0,No
+57,Male,Argentina,5,7,Entertainment,Graduate degree,0,Yes
+42,Female,India,1,5,Real Estate,Primary school,0,No
+26,Female,Japan,4,10,Agriculture,Graduate degree,3,Yes
+21,Male,Kenya,3,9,Energy,Graduate degree,3,No
+47,Male,France,0,8,Entertainment,Bachelor degree,5,No
+49,Female,India,1,10,Healthcare,Bachelor degree,4,Yes
+38,Male,France,5,6,Manufacturing,High school diploma,2,Yes
+55,Female,Mexico,5,9,Education,Primary school,2,Yes
+29,Male,Nigeria,3,9,Real Estate,Some college,4,No
+21,Female,Germany,4,4,Energy,Primary school,0,No
+31,Female,New Zealand,3,7,Finance,High school diploma,2,No
+55,Female,Argentina,2,7,Technology,No formal education,5,No
+23,Female,France,4,6,Healthcare,No formal education,4,No
+29,Male,New Zealand,5,9,Technology,No formal education,2,Yes
+24,Male,Nigeria,1,9,Manufacturing,Some college,2,No
+59,Male,Mexico,2,10,Entertainment,Graduate degree,1,Yes
+60,Female,Brazil,0,7,Telecommunications,Some college,0,No
+36,Male,Canada,0,10,Education,High school diploma,1,No
+44,Male,Mexico,5,6,Telecommunications,Bachelor degree,1,Yes
+58,Female,Argentina,5,8,Retail,Bachelor degree,0,Yes
+33,Male,Mexico,3,8,Education,Graduate degree,1,No
+34,Male,Kenya,3,9,Agriculture,High school diploma,0,No
+60,Male,Japan,5,5,Energy,Bachelor degree,3,Yes
+41,Male,Nigeria,5,7,Healthcare,No formal education,1,Yes
+33,Female,Nigeria,0,10,Transportation,Primary school,4,No
+55,Male,Argentina,1,9,Entertainment,Primary school,2,No
+54,Male,Brazil,0,7,Agriculture,Some college,2,No
+25,Male,New Zealand,2,9,Manufacturing,No formal education,4,No
+42,Female,Canada,5,5,Finance,Primary school,5,Yes
+64,Male,Nigeria,0,5,Education,High school diploma,5,No
+62,Male,Canada,1,8,Real Estate,Some college,3,No
+58,Female,Germany,4,8,Education,Some college,4,Yes
+33,Female,Kenya,5,6,Manufacturing,No formal education,2,Yes
+55,Male,France,0,10,Energy,Graduate degree,1,No
+46,Male,France,5,8,Healthcare,Some college,0,Yes
+62,Female,Canada,3,5,Entertainment,High school diploma,4,No
+24,Female,Australia,4,4,Manufacturing,Primary school,3,No
+20,Female,France,4,10,Agriculture,Graduate degree,2,Yes
+63,Male,New Zealand,3,6,Finance,Primary school,1,No
+48,Male,New Zealand,2,8,Technology,Bachelor degree,3,No
+44,Female,Mexico,4,5,Healthcare,Graduate degree,2,No
+26,Male,India,2,10,Healthcare,Some college,1,Yes
+52,Male,France,5,7,Agriculture,No formal education,1,Yes
+64,Male,India,2,8,Real Estate,High school diploma,3,No
+25,Male,Japan,3,9,Agriculture,Graduate degree,3,No
+60,Female,Australia,4,6,Finance,Primary school,4,No
+28,Male,Mexico,3,5,Healthcare,Primary school,5,No
+47,Male,Australia,5,6,Telecommunications,High school diploma,4,Yes
+21,Male,India,2,7,Finance,No formal education,4,No
+54,Female,Argentina,3,9,Agriculture,Bachelor degree,0,No
+40,Female,Brazil,3,8,Education,Some college,0,No
+24,Male,Australia,3,10,Energy,No formal education,5,Yes
+48,Male,Kenya,2,2,Energy,Primary school,5,No
+29,Male,Nigeria,1,8,Energy,High school diploma,5,No
+64,Female,Germany,4,9,Finance,High school diploma,5,Yes
+33,Male,Canada,0,9,Entertainment,Primary school,5,No
+52,Female,Nigeria,2,8,Technology,Primary school,0,No
+47,Female,Germany,2,6,Transportation,No formal education,1,No
+22,Male,Japan,1,7,Technology,No formal education,1,No
+31,Female,Canada,5,5,Retail,High school diploma,4,Yes
+44,Male,Argentina,5,5,Retail,Bachelor degree,3,Yes
+28,Male,Nigeria,3,9,Education,Primary school,2,No
+59,Female,Brazil,2,10,Telecommunications,Graduate degree,5,Yes
+41,Male,Australia,1,10,Real Estate,No formal education,5,No
+39,Female,Argentina,5,10,Technology,No formal education,2,Yes
+31,Female,Canada,0,1,Technology,Primary school,4,No
+34,Female,Argentina,0,2,Agriculture,Bachelor degree,1,No
+58,Female,Kenya,1,8,Manufacturing,Graduate degree,1,No
+65,Male,Brazil,0,5,Transportation,Graduate degree,5,No
+58,Male,Germany,3,7,Energy,No formal education,4,No
+29,Female,Brazil,2,7,Agriculture,Graduate degree,4,No
+49,Male,Argentina,4,5,Agriculture,Primary school,4,No
+56,Male,France,4,6,Real Estate,Primary school,2,No
+46,Male,Mexico,3,9,Real Estate,Some college,0,No
+63,Female,Australia,0,7,Transportation,Some college,4,No
+63,Female,New Zealand,1,9,Retail,Primary school,0,No
+25,Female,Japan,0,6,Retail,Bachelor degree,3,No
+47,Female,Germany,0,7,Manufacturing,Some college,2,No
+39,Male,Mexico,4,6,Telecommunications,Bachelor degree,5,Yes
+27,Male,Nigeria,2,5,Transportation,Graduate degree,4,No
+38,Male,Nigeria,5,10,Technology,Graduate degree,5,Yes
+65,Male,Kenya,3,9,Entertainment,Graduate degree,4,Yes
+44,Male,France,0,3,Agriculture,High school diploma,4,No
+48,Male,Canada,4,9,Manufacturing,High school diploma,1,Yes
+37,Male,New Zealand,4,7,Technology,No formal education,5,Yes
+59,Male,Nigeria,4,8,Real Estate,Graduate degree,1,Yes
+45,Female,New Zealand,5,7,Real Estate,Some college,0,Yes
+30,Male,Mexico,0,7,Entertainment,Graduate degree,4,No
+32,Female,New Zealand,0,3,Telecommunications,Some college,2,No
+21,Female,Kenya,4,7,Transportation,Bachelor degree,2,No
+60,Male,Brazil,3,1,Finance,High school diploma,5,No
+48,Female,Canada,2,8,Manufacturing,Primary school,2,No
+30,Female,Germany,2,9,Retail,No formal education,2,No
+27,Male,Brazil,0,5,Education,Bachelor degree,4,No
+22,Male,Mexico,5,10,Entertainment,Primary school,5,Yes
+38,Male,Germany,1,9,Agriculture,No formal education,4,No
+35,Male,France,4,10,Finance,Primary school,0,Yes
+30,Male,India,5,5,Technology,Primary school,3,Yes
+21,Male,New Zealand,4,8,Healthcare,Bachelor degree,5,Yes
+60,Male,Nigeria,5,5,Healthcare,Graduate degree,0,Yes
+23,Male,Australia,1,5,Manufacturing,Bachelor degree,2,No
+40,Male,Brazil,5,6,Technology,No formal education,5,Yes
+41,Male,New Zealand,2,1,Technology,High school diploma,0,No
+20,Female,Nigeria,0,5,Energy,Bachelor degree,1,No
+31,Female,New Zealand,5,6,Transportation,No formal education,5,Yes
+51,Male,New Zealand,2,6,Education,Bachelor degree,3,No
+58,Male,New Zealand,4,10,Healthcare,Bachelor degree,3,Yes
+21,Female,Japan,5,7,Energy,Graduate degree,3,Yes
+21,Male,France,0,5,Technology,Primary school,0,No
+44,Male,Brazil,4,7,Technology,Graduate degree,2,Yes
+53,Male,Germany,0,8,Retail,Bachelor degree,0,No
+48,Female,Kenya,2,2,Manufacturing,No formal education,5,No
+39,Female,India,5,10,Real Estate,No formal education,1,Yes
+41,Female,Australia,4,3,Telecommunications,Graduate degree,3,No
+60,Male,Germany,1,5,Retail,High school diploma,2,No
+36,Female,India,4,10,Retail,Bachelor degree,5,Yes
+32,Male,Kenya,4,8,Entertainment,Primary school,5,Yes
+51,Male,Japan,4,7,Retail,No formal education,3,No
+28,Male,India,5,10,Healthcare,High school diploma,0,Yes
+54,Female,Australia,2,7,Telecommunications,No formal education,3,No
+43,Male,India,5,6,Real Estate,Some college,1,Yes
+30,Female,Nigeria,3,5,Education,High school diploma,4,No
+23,Female,Argentina,1,8,Healthcare,Graduate degree,4,No
+33,Female,Germany,1,6,Entertainment,High school diploma,3,No
+49,Male,New Zealand,0,5,Manufacturing,Graduate degree,3,No
+49,Male,Nigeria,3,9,Retail,No formal education,3,No
+43,Male,Japan,3,9,Telecommunications,Bachelor degree,1,No
+27,Male,India,2,8,Entertainment,Primary school,4,No
+43,Male,Brazil,5,9,Entertainment,Graduate degree,2,Yes
+32,Male,Germany,4,6,Real Estate,Bachelor degree,4,Yes
+20,Female,India,2,5,Energy,Primary school,3,No
+29,Male,France,0,6,Agriculture,Bachelor degree,5,No
+41,Male,Argentina,5,8,Technology,High school diploma,3,Yes
+65,Female,France,1,5,Agriculture,Some college,3,No
+30,Female,India,3,5,Transportation,High school diploma,3,No
+42,Male,Germany,4,3,Agriculture,Bachelor degree,5,No
+29,Female,Germany,4,4,Telecommunications,High school diploma,1,No
+20,Female,France,2,5,Entertainment,No formal education,3,No
+20,Male,Japan,4,6,Entertainment,Bachelor degree,2,No
+22,Female,Argentina,0,9,Technology,Primary school,5,No
+57,Male,Argentina,1,7,Real Estate,Graduate degree,3,No
+48,Male,Argentina,3,6,Healthcare,Primary school,1,No
+41,Female,Kenya,1,7,Agriculture,Primary school,0,No
+22,Male,Japan,1,9,Manufacturing,Primary school,2,No
+56,Female,Brazil,0,10,Manufacturing,Primary school,4,No
+59,Male,Japan,3,9,Manufacturing,Graduate degree,3,Yes
+60,Male,France,0,9,Healthcare,High school diploma,3,No
+35,Female,Argentina,4,1,Energy,High school diploma,0,No
+54,Male,Mexico,4,9,Technology,High school diploma,5,Yes
+25,Male,Kenya,3,9,Agriculture,Some college,2,No
+23,Female,France,3,2,Healthcare,No formal education,3,No
+33,Male,Argentina,0,9,Real Estate,Bachelor degree,1,No
+47,Female,Nigeria,4,8,Technology,Graduate degree,0,Yes
+47,Female,Argentina,3,10,Retail,No formal education,3,No
+62,Female,France,3,6,Technology,Bachelor degree,5,Yes
+29,Male,Australia,3,10,Real Estate,Primary school,2,No
+65,Male,Nigeria,4,6,Entertainment,High school diploma,4,Yes
+25,Female,India,4,2,Entertainment,High school diploma,1,No
+27,Male,Mexico,5,6,Healthcare,Primary school,5,No
+64,Male,India,2,8,Telecommunications,Bachelor degree,1,No
+51,Male,Japan,1,6,Manufacturing,Some college,1,No
+61,Male,Canada,5,8,Manufacturing,Primary school,1,No
+47,Female,Nigeria,2,6,Retail,Bachelor degree,1,No
+52,Male,Canada,5,6,Agriculture,Bachelor degree,5,Yes
+43,Female,Kenya,4,8,Energy,Some college,0,Yes
+45,Male,Japan,5,5,Education,Some college,1,No
+27,Female,Germany,4,6,Education,Some college,1,No
+63,Female,Mexico,5,8,Entertainment,High school diploma,5,Yes
+33,Female,Australia,1,5,Manufacturing,No formal education,2,No
+58,Male,Argentina,4,5,Manufacturing,Bachelor degree,5,Yes
+38,Female,New Zealand,4,6,Technology,Some college,2,Yes
+50,Female,Nigeria,0,6,Entertainment,Bachelor degree,5,No
+54,Male,Mexico,1,6,Energy,Graduate degree,1,No
+24,Male,New Zealand,1,5,Manufacturing,Some college,4,No
+40,Female,Japan,5,7,Technology,Bachelor degree,0,Yes
+49,Female,Brazil,0,8,Retail,Bachelor degree,0,No
+48,Female,France,0,10,Technology,Bachelor degree,5,Yes
+21,Male,Kenya,4,6,Entertainment,No formal education,4,No
+57,Male,Nigeria,0,6,Entertainment,Bachelor degree,0,No
+47,Male,Kenya,4,6,Agriculture,No formal education,0,No
+28,Female,Germany,4,10,Real Estate,Graduate degree,0,Yes
+58,Female,Kenya,3,7,Healthcare,High school diploma,4,Yes
+25,Female,Japan,1,10,Finance,High school diploma,2,No
+22,Female,Australia,1,5,Entertainment,Primary school,2,No
+48,Male,Australia,4,5,Entertainment,Graduate degree,0,No
+23,Male,Germany,2,7,Agriculture,Bachelor degree,2,No
+59,Female,Germany,0,7,Technology,Primary school,1,No
+47,Male,New Zealand,2,7,Finance,No formal education,2,No
+59,Male,Nigeria,4,2,Energy,Graduate degree,2,No
+47,Male,New Zealand,2,10,Healthcare,No formal education,3,No
+65,Female,Brazil,0,5,Energy,Some college,4,No
+63,Male,Australia,0,7,Energy,No formal education,2,No
+28,Female,Australia,3,5,Education,High school diploma,5,No
+45,Female,Argentina,5,3,Agriculture,Graduate degree,3,No
+65,Female,Mexico,5,8,Telecommunications,Primary school,4,Yes
+22,Female,Kenya,3,8,Energy,Some college,0,No
+30,Female,Kenya,0,7,Finance,Some college,3,No
+30,Female,India,0,4,Energy,No formal education,4,No
+33,Male,India,3,6,Finance,Graduate degree,4,Yes
+22,Male,Mexico,0,2,Telecommunications,Bachelor degree,1,No
+48,Male,New Zealand,1,8,Technology,High school diploma,3,Yes
+43,Male,Mexico,4,9,Manufacturing,High school diploma,4,Yes
+57,Male,Australia,2,1,Retail,Graduate degree,5,No
+58,Male,Australia,2,6,Energy,High school diploma,3,No
+50,Male,Canada,3,7,Healthcare,Graduate degree,1,Yes
+36,Male,Germany,3,8,Entertainment,Graduate degree,2,Yes
+26,Female,Canada,1,1,Finance,Graduate degree,5,No
+62,Male,Kenya,2,2,Entertainment,Some college,4,No
+60,Male,Kenya,4,8,Energy,No formal education,0,No
+21,Female,India,1,10,Entertainment,No formal education,4,No
+52,Male,Australia,2,7,Education,Primary school,0,No
+31,Female,Germany,2,7,Real Estate,Some college,5,Yes
+34,Male,Japan,0,9,Energy,Primary school,0,No
+23,Female,Mexico,1,8,Technology,Graduate degree,5,Yes
+37,Male,Canada,5,10,Energy,No formal education,0,No
+53,Male,Mexico,2,7,Transportation,Some college,0,No
+64,Male,Australia,1,5,Energy,Primary school,4,No
+58,Male,Argentina,4,9,Finance,High school diploma,0,No
+28,Female,India,3,5,Agriculture,No formal education,4,No
+49,Male,Kenya,1,10,Entertainment,Graduate degree,4,Yes
+56,Female,India,0,9,Transportation,High school diploma,4,No
+37,Male,Germany,0,3,Energy,No formal education,0,No
+39,Male,France,0,6,Manufacturing,Graduate degree,3,No
+51,Male,India,2,7,Technology,Some college,2,No
+42,Male,Canada,4,8,Transportation,High school diploma,0,No
+55,Male,India,4,10,Finance,Some college,5,Yes
+23,Male,Kenya,3,5,Education,Graduate degree,0,No
+60,Female,Brazil,0,9,Transportation,Primary school,3,No
+54,Male,Brazil,3,7,Retail,Bachelor degree,3,No
+54,Male,Germany,2,3,Technology,Bachelor degree,0,No
+45,Male,Canada,1,5,Manufacturing,Bachelor degree,4,No
+37,Male,Mexico,4,7,Healthcare,Graduate degree,2,Yes
+45,Female,Argentina,5,10,Technology,Primary school,2,Yes
+30,Male,Mexico,2,5,Telecommunications,Graduate degree,3,No
+27,Male,Mexico,0,6,Education,Graduate degree,4,No
+51,Female,Brazil,2,7,Finance,No formal education,2,No
+49,Male,Japan,3,1,Retail,High school diploma,0,No
+65,Female,New Zealand,1,2,Manufacturing,High school diploma,3,No
+36,Male,France,0,4,Education,Bachelor degree,5,No
+36,Male,Canada,3,8,Finance,Some college,2,No
+20,Male,Kenya,0,8,Transportation,Graduate degree,1,No
+41,Female,Mexico,1,10,Energy,High school diploma,5,Yes
+34,Female,Australia,2,3,Healthcare,Graduate degree,5,No
+56,Female,Brazil,3,8,Energy,Bachelor degree,4,Yes
+64,Female,Japan,5,9,Retail,Graduate degree,0,Yes
+29,Female,Argentina,0,6,Real Estate,No formal education,4,No
+44,Female,Canada,2,7,Manufacturing,High school diploma,5,Yes
+53,Female,Australia,3,5,Education,Some college,0,No
+25,Female,Canada,1,6,Agriculture,No formal education,2,No
+29,Female,Japan,5,4,Education,Bachelor degree,2,No
+35,Female,Japan,5,10,Finance,No formal education,2,No
+38,Male,Argentina,3,6,Entertainment,High school diploma,3,No
+62,Female,Germany,4,7,Technology,Bachelor degree,5,Yes
+35,Female,Canada,1,5,Energy,Graduate degree,0,No
+20,Female,Canada,2,7,Telecommunications,Bachelor degree,3,No
+54,Female,Nigeria,1,9,Technology,Graduate degree,5,Yes
+21,Female,Argentina,3,5,Finance,Bachelor degree,5,No
+50,Male,Argentina,4,6,Real Estate,Bachelor degree,2,No
+46,Female,France,1,6,Transportation,Graduate degree,2,No
+32,Male,Germany,5,6,Energy,Graduate degree,1,Yes
+34,Male,Argentina,1,8,Real Estate,Graduate degree,2,Yes
+25,Female,Brazil,3,7,Finance,Primary school,1,No
+35,Male,Germany,4,5,Finance,Graduate degree,0,No
+43,Male,France,1,5,Agriculture,No formal education,2,No
+40,Female,Brazil,2,9,Finance,Primary school,4,No
+27,Male,Argentina,1,8,Manufacturing,Graduate degree,4,Yes
+41,Male,Canada,4,8,Manufacturing,Bachelor degree,2,Yes
+42,Female,New Zealand,0,10,Finance,Graduate degree,3,Yes
+63,Male,New Zealand,1,9,Retail,Primary school,0,No
+21,Male,Argentina,3,9,Real Estate,No formal education,0,No
+59,Male,Nigeria,3,6,Finance,Bachelor degree,4,Yes
+27,Male,New Zealand,2,5,Manufacturing,Some college,3,No
+60,Female,Canada,2,5,Retail,Graduate degree,4,No
+27,Female,Mexico,0,9,Entertainment,Primary school,3,No
+44,Male,Kenya,1,10,Technology,Graduate degree,3,Yes
+55,Female,Germany,1,6,Finance,Bachelor degree,2,No
+64,Male,New Zealand,2,2,Manufacturing,Some college,0,No
+48,Male,Germany,1,7,Real Estate,Primary school,4,No
+55,Female,Australia,4,6,Agriculture,Some college,4,Yes
+45,Male,Argentina,1,10,Real Estate,High school diploma,2,No
+49,Female,Nigeria,4,5,Healthcare,Bachelor degree,3,No
+53,Female,Kenya,0,5,Retail,Some college,4,No
+28,Female,Canada,4,5,Technology,Primary school,3,No
+61,Female,India,0,8,Real Estate,Some college,0,No
+23,Male,New Zealand,0,4,Manufacturing,Graduate degree,2,No
+34,Female,Canada,4,8,Energy,High school diploma,3,Yes
+32,Male,Australia,4,6,Manufacturing,Some college,1,No
+56,Female,Argentina,3,6,Manufacturing,Some college,0,No
+26,Female,Australia,4,9,Manufacturing,High school diploma,5,Yes
+47,Male,Australia,4,10,Retail,Some college,3,Yes
+47,Male,Brazil,2,8,Education,Graduate degree,3,Yes
+38,Male,Australia,4,7,Retail,Graduate degree,2,Yes
+26,Male,Canada,0,7,Technology,High school diploma,5,No
+49,Female,Canada,1,10,Telecommunications,Bachelor degree,0,No
+49,Male,India,4,5,Manufacturing,Graduate degree,1,No
+51,Female,Mexico,0,8,Technology,Graduate degree,5,Yes
+59,Female,Kenya,5,9,Agriculture,No formal education,1,Yes
+50,Female,France,0,7,Telecommunications,Graduate degree,0,No
+45,Male,Nigeria,0,2,Entertainment,Primary school,0,No
+61,Male,India,5,8,Real Estate,No formal education,0,No
+20,Male,New Zealand,0,7,Healthcare,Primary school,3,No
+44,Male,Brazil,2,8,Entertainment,Some college,1,No
+42,Female,India,2,6,Telecommunications,Graduate degree,1,No
+39,Female,Canada,0,5,Finance,Graduate degree,0,No
+62,Male,Australia,1,7,Energy,High school diploma,2,No
+56,Male,Brazil,2,6,Agriculture,High school diploma,0,No
+57,Female,Canada,1,7,Transportation,Bachelor degree,2,No
+47,Male,Canada,3,7,Entertainment,Some college,1,No
+36,Female,Brazil,2,5,Transportation,Graduate degree,0,No
+60,Male,Kenya,0,7,Healthcare,Some college,3,No
+59,Female,Argentina,3,5,Technology,Bachelor degree,0,No
+33,Female,India,5,5,Finance,Graduate degree,5,Yes
+36,Male,Germany,5,2,Manufacturing,Graduate degree,1,No
+49,Female,Kenya,3,9,Finance,Graduate degree,0,Yes
+48,Male,India,3,8,Transportation,No formal education,4,No
+48,Female,Australia,0,5,Transportation,Graduate degree,0,No
+20,Female,Brazil,0,8,Retail,Graduate degree,4,No
+57,Female,India,2,9,Manufacturing,Graduate degree,4,Yes
+62,Female,Brazil,2,8,Finance,Graduate degree,0,No
+48,Female,Argentina,5,9,Energy,No formal education,5,Yes
+41,Male,Brazil,0,9,Transportation,High school diploma,2,No
+28,Male,Canada,0,10,Real Estate,No formal education,1,No
+30,Male,Canada,0,5,Education,High school diploma,5,No
+50,Male,Brazil,2,5,Healthcare,Primary school,2,No
+64,Male,India,5,6,Healthcare,High school diploma,3,Yes
+29,Female,Japan,2,1,Entertainment,Primary school,3,No
+26,Male,Kenya,4,7,Transportation,Bachelor degree,2,No
+40,Male,Mexico,3,10,Finance,Graduate degree,0,Yes
+56,Female,Australia,1,5,Technology,High school diploma,0,No
+51,Female,Japan,1,6,Energy,Graduate degree,4,Yes
+50,Female,New Zealand,2,5,Technology,Graduate degree,1,No
+49,Female,Argentina,2,7,Education,Graduate degree,2,No
+20,Male,France,0,10,Real Estate,High school diploma,4,No
+36,Male,Kenya,1,9,Entertainment,Primary school,5,No
+37,Female,Mexico,2,9,Technology,Primary school,1,No
+32,Male,Kenya,2,6,Telecommunications,Graduate degree,4,Yes
+46,Male,Nigeria,5,6,Entertainment,High school diploma,5,Yes
+26,Male,Mexico,4,8,Manufacturing,Some college,2,Yes
+24,Female,Brazil,1,5,Technology,Bachelor degree,5,No
+48,Female,India,3,4,Energy,Bachelor degree,0,No
+58,Male,New Zealand,4,6,Technology,No formal education,1,No
+65,Male,Germany,4,9,Education,Graduate degree,1,Yes
+44,Male,Australia,0,8,Healthcare,Primary school,3,No
+52,Female,Mexico,4,6,Transportation,No formal education,1,No
+59,Female,Brazil,3,7,Telecommunications,High school diploma,4,Yes
+38,Female,Brazil,2,7,Healthcare,Primary school,1,No
+42,Female,Australia,2,10,Energy,Graduate degree,3,Yes
+26,Female,India,0,8,Agriculture,Primary school,0,No
+60,Male,Mexico,2,8,Education,No formal education,2,No
+58,Male,Argentina,4,7,Manufacturing,Primary school,3,No
+29,Male,Canada,4,7,Agriculture,Bachelor degree,4,No
+49,Female,Argentina,5,10,Agriculture,Primary school,3,Yes
+38,Male,Germany,4,7,Entertainment,No formal education,3,No
+40,Male,Australia,5,2,Real Estate,High school diploma,1,No
+42,Male,Mexico,1,5,Finance,Some college,4,No
+53,Male,France,5,3,Healthcare,Some college,5,No
+37,Male,Germany,4,6,Healthcare,No formal education,1,No
+50,Female,Argentina,1,9,Manufacturing,High school diploma,1,No
+52,Male,Nigeria,4,10,Manufacturing,Primary school,3,Yes
+52,Female,Kenya,2,7,Transportation,High school diploma,3,No
+34,Male,Canada,5,10,Manufacturing,Some college,1,Yes
+53,Male,Canada,5,6,Technology,Primary school,3,No
+42,Male,Argentina,3,8,Real Estate,Primary school,5,No
+24,Female,Germany,0,8,Finance,Primary school,1,No
+36,Female,New Zealand,4,10,Technology,No formal education,5,Yes
+33,Male,Kenya,0,8,Education,Graduate degree,3,No
+45,Male,Australia,3,10,Finance,High school diploma,0,Yes
+48,Male,India,5,10,Energy,Some college,2,Yes
+63,Female,Australia,2,1,Transportation,Some college,5,No
+37,Male,Canada,3,5,Agriculture,Primary school,4,No
+55,Male,Kenya,1,5,Education,Some college,2,No
+40,Female,Japan,2,5,Education,Graduate degree,4,No
+41,Female,Japan,5,10,Agriculture,No formal education,1,Yes
+25,Male,Brazil,5,8,Finance,No formal education,5,No
+20,Female,Japan,2,7,Energy,High school diploma,5,No
+27,Female,France,4,8,Technology,Primary school,5,No
+30,Female,Germany,3,8,Transportation,Graduate degree,1,No
+52,Female,Canada,4,6,Manufacturing,No formal education,1,No
+51,Male,Australia,1,10,Manufacturing,Some college,4,Yes
+64,Male,France,5,7,Transportation,Primary school,0,No
+24,Female,India,4,10,Agriculture,Bachelor degree,3,Yes
+28,Female,Brazil,5,10,Entertainment,Graduate degree,1,Yes
+46,Female,Japan,3,8,Retail,Graduate degree,4,No
+49,Female,Australia,4,4,Finance,Bachelor degree,1,No
+64,Female,Japan,4,9,Entertainment,Graduate degree,4,Yes
+33,Female,Nigeria,4,9,Entertainment,High school diploma,5,No
+41,Female,France,3,5,Finance,Bachelor degree,1,No
+23,Female,New Zealand,1,10,Real Estate,No formal education,3,No
+60,Male,Canada,1,5,Agriculture,Some college,5,No
+48,Male,Mexico,0,10,Manufacturing,High school diploma,1,No
+26,Female,Canada,0,5,Finance,Primary school,0,No
+62,Male,Argentina,4,9,Healthcare,No formal education,0,No
+44,Female,Germany,0,6,Finance,Primary school,1,No
+53,Female,Argentina,1,9,Finance,Graduate degree,3,No
+40,Male,India,1,9,Manufacturing,No formal education,2,No
+41,Female,India,4,5,Finance,Bachelor degree,0,No
+48,Male,Argentina,1,5,Real Estate,Graduate degree,1,No
+29,Male,Mexico,2,9,Healthcare,Primary school,0,No
+48,Female,Kenya,2,10,Real Estate,High school diploma,0,No
+57,Female,Kenya,1,3,Healthcare,High school diploma,4,No
+52,Male,Japan,4,6,Finance,Bachelor degree,1,No
+48,Male,Argentina,1,10,Education,Graduate degree,5,Yes
+21,Female,Brazil,1,7,Telecommunications,Primary school,5,No
+50,Male,Argentina,3,6,Agriculture,Bachelor degree,1,No
+47,Female,Canada,0,5,Agriculture,Bachelor degree,2,No
+36,Female,Australia,4,7,Energy,Bachelor degree,2,No
+59,Female,Japan,0,8,Transportation,Graduate degree,0,No
+26,Male,India,1,8,Transportation,No formal education,4,No
+20,Male,Kenya,3,7,Retail,Bachelor degree,2,No
+47,Male,Brazil,2,7,Finance,Primary school,1,No
+41,Male,New Zealand,1,10,Energy,Graduate degree,3,Yes
+56,Male,Japan,2,5,Real Estate,No formal education,3,No
+29,Male,Nigeria,3,7,Transportation,Some college,2,No
+56,Male,Germany,0,9,Retail,No formal education,5,No
+44,Female,Mexico,3,9,Healthcare,No formal education,3,No
+48,Female,Canada,3,3,Entertainment,Some college,4,No
+57,Female,New Zealand,5,7,Real Estate,Some college,5,No
+32,Female,India,3,9,Education,Graduate degree,1,No
+61,Male,India,2,9,Entertainment,High school diploma,3,No
+55,Female,Nigeria,5,10,Real Estate,High school diploma,3,Yes
+53,Female,Argentina,2,9,Transportation,Graduate degree,2,No
+41,Female,Mexico,1,10,Transportation,High school diploma,2,No
+24,Female,Argentina,0,7,Finance,Bachelor degree,2,No
+52,Male,India,2,8,Manufacturing,Some college,2,No
+44,Female,France,0,5,Manufacturing,No formal education,5,No
+36,Male,France,2,5,Entertainment,Bachelor degree,2,No
+25,Male,Argentina,1,9,Healthcare,Bachelor degree,4,No
+20,Male,Nigeria,5,5,Technology,Some college,0,No
+52,Male,India,4,6,Education,No formal education,0,No
+53,Female,Nigeria,5,7,Telecommunications,No formal education,5,No
+57,Female,India,5,7,Retail,Primary school,1,No
+58,Female,Argentina,2,5,Retail,Some college,0,No
+31,Male,Canada,3,9,Manufacturing,No formal education,3,No
+53,Female,Mexico,4,8,Telecommunications,Some college,2,No
+41,Female,France,5,5,Real Estate,No formal education,3,No
+44,Female,Canada,3,6,Manufacturing,Some college,0,No
+23,Male,Argentina,3,10,Real Estate,Bachelor degree,1,No
+61,Female,Brazil,4,5,Entertainment,No formal education,5,No
+25,Female,Australia,0,10,Real Estate,No formal education,2,No
+55,Male,France,0,8,Agriculture,High school diploma,4,No
+41,Female,Mexico,3,7,Entertainment,No formal education,5,No
+55,Male,India,1,5,Entertainment,Primary school,1,No
+28,Female,Japan,3,9,Telecommunications,No formal education,2,No
+59,Male,Australia,2,7,Education,Some college,3,No
+32,Female,Mexico,2,10,Healthcare,Graduate degree,4,Yes
+39,Male,Kenya,3,6,Transportation,Primary school,5,No
+62,Female,Argentina,0,9,Telecommunications,Primary school,2,No
+22,Female,Germany,2,6,Telecommunications,High school diploma,3,No
+40,Male,Germany,2,6,Retail,Primary school,0,No
+37,Female,Australia,0,5,Real Estate,No formal education,4,No
+48,Female,Nigeria,2,8,Entertainment,Bachelor degree,1,No
+36,Male,Argentina,3,9,Agriculture,No formal education,4,No
+41,Female,Nigeria,5,5,Finance,Some college,2,No
+44,Female,Kenya,5,10,Telecommunications,High school diploma,5,Yes
+32,Male,New Zealand,4,5,Transportation,Bachelor degree,1,No
+41,Male,Nigeria,2,8,Healthcare,Some college,4,No
+56,Male,Nigeria,3,7,Healthcare,Graduate degree,4,No
+44,Male,Mexico,3,8,Agriculture,Bachelor degree,0,No
+22,Female,Germany,2,8,Transportation,Some college,2,No
+48,Male,Mexico,1,7,Telecommunications,Bachelor degree,2,No
+26,Male,Mexico,4,6,Healthcare,Graduate degree,0,No
+21,Female,Kenya,5,8,Education,No formal education,2,No
+36,Male,Argentina,2,5,Entertainment,Primary school,2,No
+42,Female,Nigeria,2,8,Transportation,No formal education,1,No
+27,Male,Brazil,4,7,Telecommunications,No formal education,3,No
+41,Female,Canada,0,10,Technology,Graduate degree,1,No
+56,Female,Kenya,3,9,Education,Bachelor degree,1,No
+26,Female,Germany,4,9,Entertainment,Primary school,3,No
+52,Female,Japan,3,8,Retail,No formal education,2,No
+35,Female,Nigeria,3,7,Transportation,High school diploma,3,No
+45,Male,Kenya,2,6,Technology,High school diploma,4,No
+55,Male,Canada,1,7,Finance,High school diploma,2,No
+20,Male,New Zealand,4,7,Healthcare,Bachelor degree,1,No
+34,Male,Kenya,1,2,Manufacturing,Graduate degree,5,No
+23,Female,Brazil,5,6,Real Estate,Bachelor degree,4,No
+47,Female,Kenya,0,9,Retail,Some college,2,No
+32,Male,Kenya,2,8,Healthcare,Primary school,4,No
+46,Female,Germany,1,6,Finance,Some college,3,No
+26,Female,Japan,0,8,Retail,Primary school,5,No
+32,Female,Argentina,5,3,Agriculture,Primary school,5,No
+60,Female,Japan,5,10,Energy,No formal education,5,Yes
+38,Male,Japan,1,8,Education,Graduate degree,1,No
+52,Male,Japan,5,5,Transportation,High school diploma,5,No
+23,Female,Australia,5,6,Finance,Graduate degree,1,No
+34,Male,France,4,7,Finance,Graduate degree,0,No
+49,Male,Australia,3,9,Healthcare,Graduate degree,3,No
+62,Male,Kenya,1,5,Manufacturing,No formal education,1,No
+43,Female,France,4,9,Entertainment,Bachelor degree,3,No
+59,Male,Germany,2,5,Finance,Bachelor degree,0,No
+32,Female,Kenya,0,8,Healthcare,Graduate degree,5,No
+50,Female,Australia,1,5,Retail,Bachelor degree,5,No
+43,Female,Canada,3,9,Technology,No formal education,5,No
+58,Female,New Zealand,0,9,Real Estate,No formal education,4,No
+54,Female,Kenya,1,5,Telecommunications,No formal education,5,No
+59,Female,Australia,4,5,Entertainment,Graduate degree,3,No
+23,Female,Australia,3,6,Manufacturing,Primary school,4,No
+58,Male,France,4,8,Education,Some college,1,No
+55,Male,Kenya,2,5,Technology,No formal education,0,No
+61,Male,Nigeria,5,10,Finance,Graduate degree,4,Yes
+57,Male,Brazil,4,7,Finance,Graduate degree,0,No
+61,Male,Japan,5,10,Manufacturing,Bachelor degree,0,Yes
+37,Female,Germany,0,5,Finance,Bachelor degree,4,No
+36,Male,Australia,4,6,Entertainment,Primary school,5,No
+46,Female,Germany,4,5,Telecommunications,Graduate degree,5,No
+63,Male,Argentina,4,10,Finance,Graduate degree,0,Yes
+46,Female,Nigeria,4,7,Education,No formal education,1,No
+35,Female,Nigeria,1,9,Technology,Some college,1,No
+45,Male,Nigeria,3,3,Technology,High school diploma,1,No
+62,Male,India,5,7,Education,Graduate degree,2,No
+52,Female,Australia,5,8,Agriculture,High school diploma,1,No
+65,Male,Mexico,0,9,Healthcare,Graduate degree,4,No
+30,Female,Mexico,4,7,Energy,High school diploma,3,No
+37,Female,Mexico,1,7,Technology,Bachelor degree,3,No
+37,Male,Canada,4,8,Entertainment,Primary school,4,No
+44,Female,Argentina,4,7,Retail,Graduate degree,3,No
+39,Female,Mexico,4,8,Agriculture,Primary school,1,No
+26,Male,Germany,2,6,Retail,Graduate degree,0,No
+53,Male,Japan,1,6,Energy,Graduate degree,0,No
+47,Male,Germany,0,8,Education,Bachelor degree,1,No
+28,Male,Brazil,5,6,Manufacturing,Bachelor degree,4,No
+23,Female,Argentina,2,10,Education,Bachelor degree,1,No
+43,Male,Kenya,2,1,Retail,Primary school,4,No
+46,Male,Kenya,4,5,Transportation,High school diploma,0,No
+36,Female,New Zealand,4,8,Transportation,No formal education,2,No
+59,Male,Canada,0,10,Education,Bachelor degree,5,No
+41,Female,Brazil,3,10,Manufacturing,Primary school,4,No
+26,Female,Nigeria,0,4,Retail,Graduate degree,1,No
+26,Male,New Zealand,4,7,Entertainment,Bachelor degree,4,No
+36,Female,Canada,0,9,Technology,Primary school,0,No
+35,Female,Germany,0,9,Finance,No formal education,0,No
+31,Female,New Zealand,1,8,Transportation,No formal education,3,No
+47,Male,Kenya,3,7,Energy,High school diploma,5,No
+51,Male,France,4,6,Healthcare,No formal education,4,No
+45,Male,Nigeria,4,10,Real Estate,Graduate degree,4,Yes
+58,Female,Mexico,1,10,Education,Some college,3,No
+47,Female,New Zealand,4,2,Retail,Primary school,4,No
+42,Male,Canada,1,8,Entertainment,No formal education,1,No
+32,Male,Kenya,5,8,Healthcare,Some college,3,No
+48,Female,Mexico,0,9,Technology,High school diploma,1,No
+46,Male,Kenya,4,6,Retail,Some college,3,No
+53,Male,Argentina,0,5,Entertainment,High school diploma,0,No
+47,Male,Australia,0,10,Finance,High school diploma,1,No
+36,Female,New Zealand,5,6,Finance,Bachelor degree,1,No
+35,Male,Mexico,2,8,Transportation,Graduate degree,2,No
+42,Male,Japan,1,5,Finance,Bachelor degree,1,No
+26,Male,India,3,10,Finance,High school diploma,4,No
+32,Female,Argentina,1,4,Energy,Graduate degree,5,No
+53,Male,Canada,2,7,Real Estate,Graduate degree,0,No
+40,Female,Nigeria,0,9,Telecommunications,Graduate degree,3,No
+21,Male,Brazil,4,9,Retail,No formal education,4,No
+64,Male,New Zealand,0,6,Energy,Graduate degree,3,No
+42,Male,France,1,6,Healthcare,Graduate degree,1,No
+56,Female,Kenya,5,5,Finance,Primary school,2,No
+46,Male,Mexico,3,5,Agriculture,Some college,2,No
+23,Female,Australia,0,7,Energy,Primary school,3,No
+42,Female,Mexico,4,10,Entertainment,Primary school,1,Yes
+49,Female,Canada,2,6,Education,Graduate degree,1,No
+26,Male,Nigeria,0,2,Agriculture,Primary school,5,No
+33,Female,Australia,1,5,Finance,No formal education,3,No
+45,Female,Canada,1,7,Manufacturing,High school diploma,1,No
+56,Female,New Zealand,4,5,Entertainment,No formal education,2,No
+43,Male,Australia,2,9,Healthcare,No formal education,1,No
+37,Male,New Zealand,3,6,Finance,Some college,2,No
+26,Male,Australia,4,9,Telecommunications,Bachelor degree,2,Yes
+60,Male,France,0,10,Energy,High school diploma,4,No
+41,Female,Argentina,4,6,Energy,Some college,3,No
+51,Male,New Zealand,4,5,Real Estate,Some college,1,No
+22,Female,Nigeria,1,9,Transportation,Primary school,3,No
+62,Female,New Zealand,3,9,Finance,Graduate degree,1,Yes
+62,Male,Australia,0,7,Technology,Bachelor degree,5,No
+44,Male,Mexico,1,5,Real Estate,Graduate degree,1,No
+27,Male,Nigeria,1,5,Entertainment,No formal education,1,No
+26,Male,Mexico,1,10,Transportation,Primary school,0,No
+22,Female,Kenya,0,5,Retail,Graduate degree,0,No
+45,Male,Australia,1,7,Healthcare,High school diploma,3,No
+52,Female,New Zealand,2,6,Education,Graduate degree,5,No
+32,Female,Argentina,1,7,Telecommunications,Primary school,0,No
+41,Female,Germany,1,8,Healthcare,High school diploma,4,No
+41,Female,Kenya,4,6,Entertainment,Graduate degree,2,No
+31,Female,Kenya,3,7,Manufacturing,No formal education,2,No
+51,Male,Mexico,0,10,Manufacturing,High school diploma,0,No
+25,Female,Mexico,4,7,Healthcare,No formal education,2,No
+30,Male,Germany,3,1,Transportation,No formal education,5,No
+53,Female,India,0,9,Transportation,Primary school,0,No
+49,Male,Nigeria,3,9,Technology,Graduate degree,3,Yes
+47,Male,Kenya,1,8,Retail,Some college,3,No
+58,Female,France,5,5,Manufacturing,Primary school,0,No
+43,Male,New Zealand,3,7,Manufacturing,High school diploma,0,No
+34,Male,India,2,8,Transportation,Graduate degree,2,No
+61,Male,India,1,9,Entertainment,No formal education,4,No
+61,Female,Germany,1,10,Healthcare,Some college,2,Yes
+57,Female,Canada,0,7,Healthcare,Bachelor degree,2,No
+39,Male,Japan,4,7,Retail,Bachelor degree,0,No
+31,Male,Japan,0,10,Real Estate,Graduate degree,4,No
+51,Male,Mexico,3,3,Entertainment,Primary school,1,No
+59,Female,France,4,6,Real Estate,Graduate degree,2,No
+41,Male,Japan,0,7,Telecommunications,No formal education,1,No
+23,Male,Brazil,1,7,Agriculture,Bachelor degree,4,No
+26,Male,Argentina,0,6,Education,Some college,2,No
+49,Male,Australia,5,6,Retail,High school diploma,5,No
+26,Male,Nigeria,4,6,Transportation,High school diploma,2,No
+40,Male,Nigeria,2,8,Healthcare,Graduate degree,5,No
+46,Male,Australia,3,10,Manufacturing,No formal education,5,Yes
+26,Female,Germany,5,8,Entertainment,Some college,4,Yes
+24,Female,Germany,1,9,Manufacturing,No formal education,2,No
+58,Female,Argentina,4,7,Transportation,Primary school,5,No
+48,Male,New Zealand,0,7,Healthcare,No formal education,2,No
+50,Male,Argentina,4,9,Technology,Some college,2,Yes
+65,Male,Mexico,1,9,Real Estate,No formal education,1,No
+28,Female,Canada,3,9,Retail,Some college,1,No
+26,Male,Japan,4,7,Real Estate,Graduate degree,3,No
+36,Female,Australia,1,5,Technology,No formal education,4,No
+59,Male,Canada,3,5,Healthcare,No formal education,5,No
+41,Female,Canada,5,10,Education,Bachelor degree,3,Yes
+37,Female,Germany,0,6,Healthcare,Bachelor degree,5,No
+46,Male,Japan,2,10,Energy,Graduate degree,5,Yes
+27,Female,Brazil,4,7,Manufacturing,High school diploma,5,No
+33,Male,New Zealand,4,9,Retail,Graduate degree,4,Yes
+64,Male,New Zealand,0,10,Retail,Primary school,2,No
+65,Male,Argentina,0,5,Education,Graduate degree,5,No
+35,Male,New Zealand,2,7,Technology,No formal education,2,No
+27,Male,Mexico,3,9,Technology,Primary school,0,No
+48,Female,Nigeria,4,9,Retail,Bachelor degree,4,Yes
+50,Female,Australia,0,9,Entertainment,Primary school,0,No
+47,Female,Canada,4,5,Manufacturing,Some college,3,No
+45,Male,Japan,1,8,Healthcare,Primary school,3,No
+42,Female,Argentina,1,10,Retail,Primary school,3,No
+28,Female,New Zealand,1,10,Finance,Some college,4,No
+39,Male,India,0,8,Technology,Graduate degree,3,No
+36,Male,Canada,2,10,Entertainment,No formal education,4,No
+50,Male,France,4,10,Technology,Primary school,3,Yes
+56,Male,India,3,5,Agriculture,No formal education,0,No
+34,Male,France,5,6,Transportation,Primary school,4,No
+25,Male,Mexico,4,8,Agriculture,Primary school,2,No
+30,Female,Japan,0,7,Telecommunications,High school diploma,1,No
+48,Male,Germany,0,5,Healthcare,Bachelor degree,1,No
+59,Male,Canada,5,8,Finance,Some college,5,Yes
+58,Female,Kenya,5,10,Transportation,Some college,3,Yes
+64,Female,Nigeria,3,7,Finance,Primary school,4,No
+33,Male,Kenya,2,7,Transportation,Primary school,0,No
+55,Male,Canada,1,6,Retail,Some college,5,No
+46,Male,New Zealand,2,9,Finance,Primary school,4,No
+56,Female,Nigeria,4,5,Technology,Primary school,0,No
+65,Male,Japan,4,8,Finance,Graduate degree,1,No
+35,Male,New Zealand,4,9,Retail,High school diploma,5,Yes
+30,Female,Mexico,2,10,Real Estate,Some college,0,No
+23,Female,Brazil,0,5,Technology,Graduate degree,2,No
